@@ -51,5 +51,6 @@ Ensure that you have a reliable internet connection as the application requires 
 This application is for educational and informational purposes only. It does not constitute financial advice. Use the calculated values with caution and consult with a financial professional for accurate investment decisions.
 
 ---
+## link to website
 
-Feel free to customize this template based on your specific needs and add more sections if necessary.
+https://capital-asset-pricing-model-dheeraj.streamlit.app/
